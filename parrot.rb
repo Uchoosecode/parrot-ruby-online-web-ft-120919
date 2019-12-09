@@ -4,7 +4,6 @@ def parrot(phrase = "Squawk")
   
   puts "Parrot is a #{phrase}."
   
-  
-  
-  
 end
+
+parrot("pretty bird")
